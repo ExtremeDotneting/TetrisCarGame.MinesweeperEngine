@@ -1,0 +1,1 @@
+You can use this source anywhere with no limits by GNU General Public License.
